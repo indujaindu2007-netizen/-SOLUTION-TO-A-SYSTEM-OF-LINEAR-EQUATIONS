@@ -30,7 +30,8 @@ print(res)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6c7a71b-1419-453e-8b73-49ff1613b0cd" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c61be792-1939-4848-93c8-7410417e0591" />
 
-[o1m.pdf]
+[induo1.pdf](https://github.com/user-attachments/files/27391360/induo1.pdf)
+
 
 
 
