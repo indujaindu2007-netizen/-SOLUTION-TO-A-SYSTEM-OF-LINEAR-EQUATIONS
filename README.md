@@ -15,6 +15,10 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
+#Program to find the solution for the given linear equations.
+#Developed by: Induja R 
+#RegisterNumber: 212225230103
+
 import numpy as np
 matrixA=np.array([[1,-3],[3,1]])
 const=np.array([0,10])
